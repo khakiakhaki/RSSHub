@@ -590,6 +590,9 @@
   "/behance/:user/:type?": [
     "MisteryMonster"
   ],
+  "/beijingprice/:category{.+}?": [
+    "nczitzk"
+  ],
   "/bellroy/new-releases": [
     "EthanWng97"
   ],
@@ -4889,6 +4892,9 @@
   "/ruancan/": [],
   "/ruancan/search/:keyword?": [],
   "/ruancan/user/:id": [],
+  "/ruc/ai/:category?": [
+    "yinhanyan"
+  ],
   "/ruc/hr/:category?": [
     "nczitzk"
   ],
